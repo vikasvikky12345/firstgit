@@ -1,1 +1,1 @@
-console.log("iam vikas")
+"iam vikas"
